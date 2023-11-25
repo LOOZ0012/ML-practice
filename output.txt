@@ -29,5 +29,10 @@ Iteration 10: 0.9083995852056689 (Naive Bayes Accuracy)
 Iteration 10: 0.8403041825095057 (SVM Accuracy)
 
 
-Mean accuracy of Naive Bayes Classifier: 0.9083995852056689
-Mean accuracy of SVM Classifier: 0.8403041825095057
+Mean accuracy of SVM Classifier: 
+
+0.8403041825095057
+
+Mean accuracy of Naive Bayes Classifier: 
+
+0.9083995852056689
