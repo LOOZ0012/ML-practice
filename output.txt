@@ -1,12 +1,33 @@
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
-0.8461804355340476
+Iteration 1: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 1: 0.8403041825095057 (SVM Accuracy)
 
-0.8461804355340476
+Iteration 2: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 2: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 3: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 3: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 4: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 4: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 5: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 5: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 6: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 6: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 7: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 7: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 8: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 8: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 9: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 9: 0.8403041825095057 (SVM Accuracy)
+
+Iteration 10: 0.9083995852056689 (Naive Bayes Accuracy)
+Iteration 10: 0.8403041825095057 (SVM Accuracy)
+
+
+Mean accuracy of Naive Bayes Classifier: 0.9083995852056689
+Mean accuracy of SVM Classifier: 0.8403041825095057
